@@ -10,6 +10,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,django,kafka,tensorflow,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=py,django,kafka,tensorflow,mysql,mongodb" />
   </a>
 </p>
