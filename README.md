@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
-<h3 align="center">Currently a MSc Business Analytics and Big Data student at IE University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
